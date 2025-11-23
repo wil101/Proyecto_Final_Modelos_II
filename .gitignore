@@ -1,0 +1,49 @@
+# Modelos entrenados (archivos muy pesados)
+modelos_entrenados/
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Datos temporales
+*.tmp
+*.log
+*.csv
+*.xlsx
+*.xls
+
+# Archivos grandes de datos (descomentar si es necesario)
+# *.data
+# *.parquet
