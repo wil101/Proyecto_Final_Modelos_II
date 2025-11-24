@@ -6,7 +6,8 @@
 - Wilmar Osorio
 - Santiago Arenas
 
----
+---## 🎬 Video del proyecto  
+[Modelos II – Proyecto Final (Exposición)](https://drive.google.com/file/d/1N6FNI8GnlcS0rr_gmx_B-G-k25JGHXKQ/view?usp=drive_link)
 
 Este repositorio contiene la solución completa para el proyecto final del curso *Modelos y Simulación II*. El objetivo principal es desarrollar, comparar y optimizar modelos de Machine Learning para predecir si una persona tiene ingresos superiores a $50K anuales, basándose en características demográficas y laborales del dataset Adult UCI.
 
